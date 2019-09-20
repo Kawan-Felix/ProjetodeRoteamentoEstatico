@@ -1,0 +1,2 @@
+# ProjetodeRoteamentoEstatico
+todos scripts utilizados.
